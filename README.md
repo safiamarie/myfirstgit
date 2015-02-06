@@ -1,0 +1,2 @@
+# myfirstgit
+trying out git
